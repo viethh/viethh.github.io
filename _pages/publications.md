@@ -16,7 +16,7 @@ My thesis *Towards Scalable Bayesian Nonparametric Methods for Data Analytics* c
 <ul>
  
 <li style="margin-top:0.5em;text-align:justify">
-Tam Le, <b>Viet Huynh</b>, Nhat Ho, Dinh Phung, Makoto Yamada. <b>2019</b>. Tree-Wasserstein Barycenter for Large-Scale Multilevel Clustering and Scalable Bayes, arXiv preprint arXiv:1910.04483, 2019.
+Tam Le, <b>Viet Huynh</b>, Nhat Ho, Dinh Phung, Makoto Yamada. <b>2019</b>. Tree-Wasserstein Barycenter for Large-Scale Multilevel Clustering and Scalable Bayes, arXiv preprint arXiv:1910.04483.
 </li>
 
 </ul>

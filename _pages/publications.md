@@ -12,6 +12,14 @@ Up-to-date papers at my [Google Scholar profile](https://scholar.google.com/cita
 
 My thesis *Towards Scalable Bayesian Nonparametric Methods for Data Analytics* can be found [here](https://dro.deakin.edu.au/eserv/DU:30103238/huynh-towardsscalable-2017.pdf)
 
+<span style="margin-top:0.5em;margin-bottom:0.5em;text-align:justify"> <b>Preprints</b> </span>
+<ul>
+ 
+<li style="margin-top:0.5em;text-align:justify">
+Tam Le, <b>Viet Huynh</b>, Nhat Ho, Dinh Phung, Makoto Yamada. <b>2019</b>. Tree-Wasserstein Barycenter for Large-Scale Multilevel Clustering and Scalable Bayes, arXiv preprint arXiv:1910.04483, 2019.
+</li>
+
+</ul>
 <span style="margin-top:0.5em;margin-bottom:0.5em;text-align:justify"> <b>[2021]</b> </span>
 <ul>
  

@@ -49,5 +49,14 @@ Mahmoud Hossam, Trung Le, <b>Viet Huynh</b>, Michael Papasimeon, Dinh Phung. <b>
 </li>
 </ul>
 
-<span style="margin-top:0.5em;margin-bottom:0.5em;text-align:justify"> <b>[Before 2020]</b> See my Google Scholar profile!</span>
+<span style="margin-top:0.5em;margin-bottom:0.5em;text-align:justify"> <b>[2019]</b> </span>
+
+<ul>
+ 
+<li style="margin-top:0.5em;text-align:justify">
+ <b>Viet Huynh</b>, Nhat Ho, Dinh Phung, Michael I Jordan. <b>2019</b>. Probabilistic multilevel clustering via composite transportation distance. In <i>the Proc. of The 22nd International Conference on Artificial Intelligence and Statistics</i> (AISTATS).
+</li>
+</ul>
+
+<span style="margin-top:0.5em;margin-bottom:0.5em;text-align:justify"> <b>[Before 2019]</b> See my Google Scholar profile!</span>
 

@@ -24,5 +24,5 @@ News
 <div class="torightc" style="height:500px;overflow:auto;">
 <ul>
   
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=MNIZzvpA9owBGmr42E86kIDo1O_k9QMFAwixj2vIVh8"></script>
-
+<!--script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=MNIZzvpA9owBGmr42E86kIDo1O_k9QMFAwixj2vIVh8"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=MNIZzvpA9owBGmr42E86kIDo1O_k9QMFAwixj2vIVh8&cl=ffffff&w=a"></script>

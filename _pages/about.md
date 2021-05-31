@@ -21,8 +21,4 @@ Current Research Interests
 News
 ======
 
-<div class="torightc" style="height:500px;overflow:auto;">
-<ul>
-  
-<!--script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=MNIZzvpA9owBGmr42E86kIDo1O_k9QMFAwixj2vIVh8"></script>
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=MNIZzvpA9owBGmr42E86kIDo1O_k9QMFAwixj2vIVh8&cl=ffffff&w=a"></script>
+<a href="https://clustrmaps.com/site/1bhne" title="Visit tracker"><img src="//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=n&d=MNIZzvpA9owBGmr42E86kIDo1O_k9QMFAwixj2vIVh8&co=2d78ad&ct=ffffff" /></a>
